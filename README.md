@@ -2,3 +2,4 @@
 
 # TIL
 1. React Query
+2. Next.js
