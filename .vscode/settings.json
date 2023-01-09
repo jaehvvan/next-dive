@@ -1,0 +1,14 @@
+{
+  // 포매터 지정
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // 자동 포매팅
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+
+  // 들여쓰기
+  "editor.tabSize": 2,
+  "editor.insertSpaces": true,
+  "editor.detectIndentation": false
+}
